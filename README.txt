@@ -1,1 +1,1 @@
-#Link[https://sharipovhuseyn.github.io/Weather/]
+[Link](https://sharipovhuseyn.github.io/Weather/)
